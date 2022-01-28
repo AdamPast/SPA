@@ -11,11 +11,11 @@ import {
 const App = () => {
   return (
     <BrowserRouter>
-     <Navbar />
-     <Routes>
-     
-     </Routes>
-     <Footer />
+      <Navbar />
+        <Routes>
+        
+        </Routes>
+      <Footer />
     </BrowserRouter>
   );
 }

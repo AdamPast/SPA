@@ -1,13 +1,11 @@
 import React from 'react'
-import axios from 'axios'
-import Form from '../parts/Form'
-const AboutUs = () => {
-    
+
+const Home = () => {
     return (
         <>
         <div className="about row">
             <div className="col-sm-12 mb-5 p-0">
-                <h1>O nas</h1>
+                <h1>Strona tytułowa</h1>
             </div>
             <div className="row">
                 <div className="about-info col-md-6 d-flex align-items-center">
@@ -27,9 +25,8 @@ const AboutUs = () => {
             </div>
                 
         </div>
-        <Form />
         </>
     )
 }
 
-export default AboutUs
+export default Home

@@ -1,0 +1,50 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #333;
+    color: white;
+}
+main{
+} 
+header{
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../../public/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+
+}
+.nav-link{
+    color:black;
+}
+footer{
+    padding: 10px;
+    background-color: white;
+    text-align: center;
+    margin-top: auto;
+}
+footer p{
+    margin:0;
+    color: rgb(0, 0, 0);
+}
+.about{
+    margin: 30px 0;
+}
+.about h1{
+    text-align: center;
+    margin: 30px 0;
+}
+.about-info p{
+    font-size: 23px
+}
+
+@media only screen and (max-width: 768px) {
+    .about-info{
+        text-align: center;
+    }
+}

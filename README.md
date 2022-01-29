@@ -1,7 +1,7 @@
 Zaliczenie przedmiotu "Projektowanie witryn typu SPA"
 
 
-Strona internetowa z sześcioma podstronami wykonana w frameworku React. Strona internetowa jest w pełni responsywna.
+Strona internetowa z trzema podstronami wykonana w frameworku React. Strona internetowa jest w pełni responsywna.
 
 Album: 50495
 

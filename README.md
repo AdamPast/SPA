@@ -1,3 +1,12 @@
+Zaliczenie przedmiotu "Projektowanie witryn typu SPA"
+
+
+Strona internetowa z sześcioma podstronami wykonana w frameworku React. Strona internetowa jest w pełni responsywna.
+
+Album: 50495
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

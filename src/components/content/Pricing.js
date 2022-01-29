@@ -5,9 +5,6 @@ import Form from '../parts/Form'
 const Pricing = () => {
     return (
         <div className="row">
-            <div className="col-md-6">
-                
-            </div>
             <h1 className="mt-3 text-center">Cennik</h1>
             <div className="d-flex justify-content-center align-items-center">
             <table className="mt-5 table table-light table-hover">

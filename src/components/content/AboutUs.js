@@ -26,7 +26,7 @@ const AboutUs = () => {
             </div>
                 
         </div>
-        <Form />
+        <Form isPricing={false}/>
         </>
     )
 }

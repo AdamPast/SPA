@@ -4,7 +4,6 @@ import Footer from './components/layout/Footer'
 import Navbar from './components/layout/Navbar'
 import Header from './components/content/Header'
 import Home from './components/content/Home'
-import Container from './components/content/Container'
 import {
   BrowserRouter,
   Routes,
@@ -23,8 +22,7 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Home />}/>
           <Route path="about" element={<AboutUs />}/>
-          <Route path="about" element={<Pricing />}/>
-          
+          <Route path="pricing" element={<Pricing />}/>
         </Routes>
       </main>
       <Footer />

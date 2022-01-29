@@ -42,6 +42,9 @@ footer p{
 .about-info p{
     font-size: 23px
 }
+th,td{
+    text-align: center;
+}
 
 @media only screen and (max-width: 768px) {
     .about-info{

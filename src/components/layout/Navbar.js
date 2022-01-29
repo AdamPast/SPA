@@ -11,13 +11,13 @@ const Navbar = () => {
         <div className="collapse navbar-collapse justify-content-center" id="navbarNav">
         <ul className="nav justify-content-center">
             <li className="nav-item">
-            <Link className="nav-link active" aria-current="page" to="/">Home</Link>
+            <Link className="nav-link active" aria-current="page" to="/">Strona główna</Link>
             </li>
             <li className="nav-item">
-            <Link className="nav-link" to="about">About</Link>
+            <Link className="nav-link" to="about">O nas</Link>
             </li>
             <li className="nav-item">
-            <Link className="nav-link" to="pricing">Pricing</Link>
+            <Link className="nav-link" to="pricing">Cennik</Link>
             </li>
         </ul>
         </div>

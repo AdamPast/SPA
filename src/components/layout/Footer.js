@@ -2,9 +2,9 @@ import React from 'react'
 
  const Footer = () => {
     return (
-        <div>
-            
-        </div>
+        <footer className="footer">
+            <p>Copyright &copy; 2022 Adam Pastalenz</p>
+        </footer>
     )
 }
 export default Footer
